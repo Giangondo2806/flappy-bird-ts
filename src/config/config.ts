@@ -1,0 +1,22 @@
+const GAME_WIDTH = 288;
+const GAME_HEIGHT = 512;
+const GAME_FPS = 40;
+const GAME_SPEED = 2;
+const GAME_GRAVITY = 0.2;
+const FLAP_VELOCITY = 10;
+const PIPE_DISTANCE = 200;
+const PIPE_WIDTH = 52;
+const BIRD_HEIGHT = 24;
+const PIPE_LONG = 320;
+
+export {
+    GAME_WIDTH,
+    FLAP_VELOCITY,
+    GAME_GRAVITY,
+    GAME_HEIGHT,
+    GAME_SPEED,
+    GAME_FPS,
+    PIPE_DISTANCE,
+    PIPE_WIDTH,
+    BIRD_HEIGHT
+}
